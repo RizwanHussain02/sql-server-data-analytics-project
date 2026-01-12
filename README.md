@@ -1,6 +1,6 @@
 # SQL Server Data Analytics Project
 
-## 📌 Overview
+## 📌 OVERVIEW 
 This project demonstrates an **end-to-end data analytics workflow** using **Microsoft SQL Server**—from **data ingestion** and **cleaning** to **analysis** and **report-ready outputs**.  
 It is designed to showcase **practical SQL skills**, **data modeling**, and **business-focused insights**.
 
